@@ -10,6 +10,7 @@ Basic usage:
 ```
 ruby ./hetzner-invoice-parser.rb <path_to_csv_invoice_file>
 ```
+Where <path_to_csv_invoice_file> is a path to a downloaded invoice in csv-format. You can find your invoice here: https://accounts.hetzner.com/invoice
 
 Sample output of the script:
 ```
