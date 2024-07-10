@@ -77,5 +77,6 @@ if search_server_name
 else
   puts "Total amount with global addons: #{total_sum.round(2)} euro"
 end
+puts "All prices are without VAT!"
 puts "===================================="
 
