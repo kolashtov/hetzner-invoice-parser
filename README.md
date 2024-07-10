@@ -34,6 +34,7 @@ Server #444444 project2.backend2. Total price with addons: 80.2 euro
 Addons:
   - 1x Primary IPv4 65.109.DDD.RRR: 1 x 1.7 = 1.7 euro
   - 1x 10 Gbit Uplink: 1 x 42.9 = 42.9 euro
+
 Global addons:
 - 1x 48-Port 10 Gbit switch: 1 x 342.1 = 342.1 euro
 ====================================
@@ -50,7 +51,6 @@ Example:
 ```
 ruby ./hetzner-invoice-parser.rb hetzner.csv backend
 ```
-
 
 Sample output of the script:
 ```
